@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5d1049</color>
+    <color name="colorPrimaryDark">#4e0d3a</color>
+    <color name="colorAccent">#5d1049</color>
+    <color name="secondaryRed">#E30425</color>
+    <color name="transparent">#a0c2c2c2</color>
+    <color name="fadeout_white">#a0c2c2c2</color>
+</resources>

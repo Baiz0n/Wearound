@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/baseline_search_white_24dp"
+        android:title="Search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/more_vert_white_24x24"
+        app:showAsAction="always"
+        android:title="">
+
+        <menu>
+
+            <item
+            android:id="@+id/settings"
+            android:title="Settings"
+            app:showAsAction="never" />
+
+            <item
+            android:id="@+id/clear_searched"
+            android:title="Clear Viewed"
+            app:showAsAction="never" />
+
+            <item
+            android:id="@+id/clear_favourites"
+            android:title="Clear Favourites"
+            app:showAsAction="never" />
+
+        </menu>
+    </item>
+
+</menu>

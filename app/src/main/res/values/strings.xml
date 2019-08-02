@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wearound</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">AIzaSyAWJVpcs633Ah4a_trh4M0W3BWadOuCtYs</string>
+    <string name="shop_image">Shop image</string>
+    <string name="open">Open</string>
+    <string name="closed">Closed</string>
+    <string name="km">Show in Meter/KM</string>
+    <string name="miles">Show in Yards/Miles</string>
+</resources>
