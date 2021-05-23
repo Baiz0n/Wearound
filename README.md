@@ -7,4 +7,8 @@ The data comes from the Google API and the Google Maps API.</p>
 
 ## Installation
 
-clone the repsitory and you should be able to test it in Android Studio.
+You can download the APK with this link
+https://drive.google.com/uc?id=1qPO0UgiqkeOPNScnOxp9E_g9h1bq3Ms6&export=download
+
+Or scan QR code straight from your Android device
+![Wearound-QR](https://user-images.githubusercontent.com/45075201/119258576-f56cb300-bbd2-11eb-9d48-174ff01f4336.png)
